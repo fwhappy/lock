@@ -21,6 +21,9 @@
 		    }
 		  }
 		}
+* 或者
+	
+		composer require fwhappy/lock ^1.0
 
 * 也可以直接clone，放到项目中
 
