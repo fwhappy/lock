@@ -12,7 +12,7 @@
 		{
 		  "require": {
 		    "php": ">=5.3.0",
-		    "fwhappy/lock": "dev-master"
+		    "fwhappy/lock": "^1.0"
 		  },
 		  "repositories": {
 		    "packagist": {
